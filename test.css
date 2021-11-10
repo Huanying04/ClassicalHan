@@ -1,7 +1,7 @@
 .sans {
-    font-family: SarasaUI, sans-serif;
+    font-family: SarasaUI, sans-serif !important;
 }
 
 .serif {
-    font-family: IMing, serif;
+    font-family: IMing, serif !important;
 }
