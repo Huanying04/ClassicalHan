@@ -1,0 +1,41 @@
+@font-face {
+    font-family: GenYoGothic;
+    src: url("GenYoGothic/GenYoGothicTW-EL.ttf");
+    font-weight: 250;
+}
+
+@font-face {
+    font-family: GenYoGothic;
+    src: url("GenYoGothic/GenYoGothicTW-L.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: GenYoGothic;
+    src: url("GenYoGothic/GenYoGothicTW-N.ttf");
+    font-weight: 350;
+}
+
+@font-face {
+    font-family: GenYoGothic;
+    src: url("GenYoGothic/GenYoGothicTW-R.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: GenYoGothic;
+    src: url("GenYoGothic/GenYoGothicTW-M.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: GenYoGothic;
+    src: url("GenYoGothic/GenYoGothicTW-B.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: GenYoGothic;
+    src: url("GenYoGothic/GenYoGothicTW-H.ttf");
+    font-weight: 900;
+}

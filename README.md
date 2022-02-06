@@ -15,3 +15,17 @@ I do not own the fonts. The project is used for setting web fonts conveniently.
 
 <!-- font-family 名為 SarasaUI -->
 ```
+
+源樣黑體
+```html
+<link rel="stylesheet" href="https://huanying04.github.io/ClassicalHan/GenYoGothic.css">
+
+<!-- font-family 名為 GenYoGothic -->
+```
+
+源樣明體
+```html
+<link rel="stylesheet" href="https://huanying04.github.io/ClassicalHan/GenYoMin.css">
+
+<!-- font-family 名為 GenYoMin -->
+```

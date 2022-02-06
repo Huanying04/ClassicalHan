@@ -1,7 +1,15 @@
-.sans {
+.sarasa-sans {
     font-family: SarasaUI, sans-serif !important;
 }
 
-.serif {
+.i-serif {
     font-family: IMing, serif !important;
+}
+
+.genyog {
+    font-family: GenYoGothic, sans-serif !important;
+}
+
+.genyo {
+    font-family: GenYoMin, serif !important;
 }
